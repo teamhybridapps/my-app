@@ -123,5 +123,5 @@
       }
     }
   },
-  "defaultProject": "my-app"
+  "defaultProject": "dist/my-app"
 }
